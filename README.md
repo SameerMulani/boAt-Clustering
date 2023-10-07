@@ -23,6 +23,9 @@ I was able to identify a pattern in the website link while the html page was dyn
 
 Majorly two types of cluster validation techniques were examined:
 - Elbow Method
+
  ![image](https://github.com/SameerMulani/boAt-Clustering/assets/88852494/c84b128b-5eea-4f3d-8417-0d0e5b499cf9)
 
 - Silhouette Analysis
+
+After closely examining the results, I was able to establish 3 product segments.
