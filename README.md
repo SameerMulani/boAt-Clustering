@@ -16,4 +16,13 @@ The product information retrieved from the website were:
 
 ## Challenges
 The major challenge faced while web scraping the data was the dynamic nature of the website. Since BeautifulSoup doesn't support dynamic website's scraping, finding a solution was a must.
+
 I was able to identify a pattern in the website link while the html page was dynamically loading. By applying a loop outside the implementation of web scraping, I was able to retrieve all the product information effectively.
+
+## Clustering
+
+Majorly two types of cluster validation techniques were examined:
+- Elbow Method
+ ![image](https://github.com/SameerMulani/boAt-Clustering/assets/88852494/c84b128b-5eea-4f3d-8417-0d0e5b499cf9)
+
+- Silhouette Analysis
